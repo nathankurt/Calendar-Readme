@@ -9,7 +9,8 @@ Alternatively you can just go to [history.msu.edu/room-book](history.mus.edu/roo
 
 ## Using the Interface
 
-The interface is pretty simple and shouldn't be too hard to figure out. 
+The interface is pretty simple and shouldn't be too hard to figure out.
+
 **The first thing you have to do is select the room so it will load the right calendar**
 
 Then click the date on the calendar you want the conference room to be booked for. *If you want it booked for a weekend talk to the people in the main office over at Old Hort* 
