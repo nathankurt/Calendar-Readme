@@ -3,7 +3,7 @@
 We've recently implemented an online form in order to streamline the process of booking a conference room in the Old Horticulture Building
 ## Getting Started
 
-Go to [history.msu.edu](history.msu.edu), hover over the "Home" tab and click on "Book a Conference Room"
+Go to [history.msu.edu](http://history.msu.edu/), hover over the "Home" tab and click on "Book a Conference Room"
 
 Alternatively you can just go to [history.msu.edu/room-book](http://history.msu.edu/room-book/) and start there.
 
