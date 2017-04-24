@@ -7,17 +7,17 @@ Go to [history.msu.edu](history.msu.edu), hover over the "Home" tab and click on
 
 Alternatively you can just go to [history.msu.edu/room-book](history.mus.edu/room-book) and start there.
 
-### Using the Interface
+## Using the Interface
 
 The interface is pretty simple and shouldn't be too hard to figure out. 
 **The first thing you have to do is select the room so it will load the right calendar**
 
 Then click the date on the calendar you want the conference room to be booked for. *If you want it booked for a weekend talk to the people in the main office over at Old Hort* 
 
-## The Calendar
+### The Calendar
 If the Calendar date you want is orange, hover over it and make sure you the time you want isn't booked, if you try to overlap           during that time you will get an error
     
-# Using the Interface Cont.
+## Using the Interface Cont.
 
 After you've selected the room and date go to start time. Unfortunately the plugin only supports 24h time. If it seems like the numbers aren't working when you type them in, make sure that the time starts with a 0,1, or 2 depending on the time. 
 
