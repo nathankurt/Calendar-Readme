@@ -5,7 +5,7 @@ We've recently implemented an online form in order to streamline the process of 
 
 Go to [history.msu.edu](history.msu.edu), hover over the "Home" tab and click on "Book a Conference Room"
 
-Alternatively you can just go to [history.msu.edu/room-book](history.mus.edu/room-book) and start there.
+Alternatively you can just go to [history.msu.edu/room-book](history.msu.edu/room-book) and start there.
 
 ## Using the Interface
 
